@@ -21,8 +21,9 @@ function App() {
           <Route path='/Works' element={<Works/>}/>
           <Route path='/Blogs' element={<Blogs/>}/>
           <Route path='/Contact' element={<Contact/>}/>
-          <Route path='*' element={<NotFound/>}/>
+          
         </Route>
+        <Route path='*' element={<NotFound/>}/>
       </Route>
     )
   )
