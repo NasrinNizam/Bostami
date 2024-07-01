@@ -19,7 +19,7 @@ export const HomeCompo = () => {
         <h4 className="text-[14px] font-medium text-[#7b7b7b] mb-[15px] p-[4px 20px] mt-[15px] font-poppins">Ui/Ux Designer</h4>
       </div>
       <div className="social-info mb-[30px] flex gap-[17px] ">
-        <SocialButton icons={<FaFacebookF className="text-[#1773ea]" />}/>
+        <SocialButton iconLink='https://www.facebook.com/' icons={<FaFacebookF className="text-[#1773ea]" />}/>
         <SocialButton icons={<FaTwitter className="text-[#0d6efd]" />}/>
         <SocialButton icons={<FaInstagram className="text-[#e12a72]" />}/>
         <SocialButton icons={<FaLinkedinIn className="text-[#144679]" />}/>
