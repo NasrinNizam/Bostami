@@ -11,8 +11,10 @@ export default {
     },
     fontFamily: {
       'poppins': ["Poppins", 'sans-serif'],
+      'slab'   : ["Roboto Slab",' serif']
 
     }
   },
   plugins: [],
+  darkMode: "class", 
 }

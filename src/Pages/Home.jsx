@@ -1,11 +1,10 @@
 import React from 'react'
-import { Navbar } from '../Component/Navbar'
+import { HomeCompo } from '../Component/HomeCompo'
 
 export const Home = () => {
   return (
     <>
-   <h1 className="text-6xl text-center mt-10">Home</h1>
-    
+      <HomeCompo/>
     </>
   )
 }
