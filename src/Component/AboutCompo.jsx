@@ -17,7 +17,9 @@ export const AboutCompo = () => {
             <p className="text-[16px] font-normal font-poppins text-[#44566c] mb-[16px]">I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.<br/> <br/>
             My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.</p>
             <div className="personal p-5">
+               <div className="infoHead">
                <h3 className="text-[28px] font-medium font-poppins text-black">Personal Info</h3>
+               </div>
             </div>
           </div>
         </div>
