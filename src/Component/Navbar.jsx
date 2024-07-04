@@ -55,7 +55,7 @@ export const Navbar = () => {
                 }
                 </div>
 
-               <div className="hidden md:block">
+               <div className="hidden md:block mb-[80px]">
                <div className="menu flex">
                     <ul className="flex flex-wrap gap-4 text-[13px] font-medium font-poppins text-inherit">
                         <li><NavLink className={({ isActive }) =>isActive ? "px-[19px] gap-[3px] h-10 rounded-lg bg-gradient-to-r from-[#fa5252] to-[#dd2476] text-white flex items-center" : "px-[19px] gap-[3px] h-10 rounded-lg bg-[#fff] flex items-center hover:bg-gradient-to-r from-[#FA5252] to-[#DD2476] dark:bg-[#1d1d1d] dark:text-[#A6A6A6] hover:text-white"} to="/"> <IoHomeOutline className="text-xl" />Home</NavLink></li>

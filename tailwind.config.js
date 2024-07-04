@@ -8,6 +8,7 @@ export default {
     extend: {},
     container: {
       center:true,
+      padding:'61px'
     },
     fontFamily: {
       'poppins': ["Poppins", 'sans-serif'],
