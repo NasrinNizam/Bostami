@@ -46,9 +46,9 @@ export const AboutCompo = () => {
            <div className="flex flex-wrap mb-[30px] gap-10">
             <Skill cardIcon={<LiaSwatchbookSolid className="text-[#d566ff]" />} cardColor='bg-[#fff4f4]' cardHead='Ui/Ux Design' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
             <Skill cardIcon={<IoGridOutline className="text-[#ff6080]" />} cardColor='bg-[#eef5fa]' cardHead='App Development' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
-            <Skill cardIcon={<FaCameraRetro className="text-[#8774ff]" />} cardColor='bg-[#fff4f4]' cardHead='Photography' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
-            <Skill cardIcon={<LiaPenAltSolid className="text-[#dda10c]" />} cardColor='bg-[#fff4f4]' cardHead='Graphic Design' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
-            <Skill cardIcon={<FaListCheck className="text-[#ff75d8]" />} cardColor='bg-[#fff4f4]' cardHead='Managment' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
+            <Skill cardIcon={<FaCameraRetro className="text-[#8774ff]" />} cardColor='bg-[#fcf4ff]' cardHead='Photography' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
+            <Skill cardIcon={<LiaPenAltSolid className="text-[#dda10c]" />} cardColor='bg-[#fefaf0]' cardHead='Graphic Design' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
+            <Skill cardIcon={<FaListCheck className="text-[#ff75d8]" />} cardColor='bg-[#fff0f8]' cardHead='Managment' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
             <Skill cardIcon={<FaCode className="text-[#007aff]" />} cardColor='bg-[#fff4f4]' cardHead='Web Development' cardP='Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.'/>
            </div>
         </div>
